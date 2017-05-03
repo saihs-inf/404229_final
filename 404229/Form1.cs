@@ -21,5 +21,10 @@ namespace _404229
         {
             MessageBox.Show("404229");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("KILLER");
+        }
     }
 }
