@@ -26,5 +26,10 @@ namespace _404229
         {
             MessageBox.Show("KILLER");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = textBox1.Text;
+        }
     }
 }
